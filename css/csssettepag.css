@@ -1,0 +1,55 @@
+.green-box {
+    background-color: green;
+    color: white;
+    padding: 20px;
+    display: flex;
+    justify-content: space-between;
+  }
+  .spazio {
+    margin-top: 50px;
+  }
+  .spazio11 {
+    margin-top: 50px;
+  }
+
+  section {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 90px;
+  }
+  
+  
+  section img {
+    object-fit: cover;
+    max-width: 300%;
+  }
+
+  img {
+    display: inline-block;
+    margin-right: 1opx;
+}
+   
+
+  .green-box1 {
+    background-color: green;
+    color: white;
+    padding: 20px;
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+    box-sizing: border-box;
+    margin-right: 10px;
+    height: 300px;
+    font-family: 'Roboto Slab', serif;
+  }
+ 
+  body {
+    background-color: #a1e86a;
+  }
+
+  .bodyt {
+    font-family: 'EB Garamond', serif;
+    font-family: 'Roboto Slab', serif;
+    font-size: 120%;
+  
+  }

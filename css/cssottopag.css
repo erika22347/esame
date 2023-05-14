@@ -1,0 +1,55 @@
+.green-box {
+    background-color: green;
+    color: white;
+    padding: 20px;
+    display: flex;
+    justify-content: space-between;
+   
+    font-family: 'EB Garamond', serif;
+  font-family: 'Roboto Slab', serif;
+  
+
+  }
+  .spazio {
+    margin-top: 50px;
+  }
+
+  .body1 {
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   height: 100vh;
+  }
+  .center {
+   text-align: center;
+  }
+
+ .bodyt {
+  font-family: 'EB Garamond', serif;
+  font-family: 'Roboto Slab', serif;
+  font-size: 120%;
+
+}
+  .green-box1 {
+    background-color: green;
+    color: white;
+    padding: 20px;
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+    box-sizing: border-box;
+    margin-right: 10px;
+    height: 300px;
+    font-family: 'Roboto Slab', serif;
+  }
+ 
+  .spazio {
+    margin-top: 150px;
+  }
+  
+  .spazio1 {
+    margin-top: 150px;
+  }
+  body {
+    background-color: #a1e86a;
+  }
